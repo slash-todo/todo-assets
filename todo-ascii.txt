@@ -1,0 +1,21 @@
+                   ooo OOO OOO ooo
+               oOO                 OOo
+           oOO                         OOo
+        oOO                               OOo
+      oOO                                   OOo
+    oOO                                       OOo
+   oOO                                         OOo
+  oOO                                           OOo
+ oOO                                             OOo
+ oOO                                             OOo
+ oOO                                             OOo
+ oOO              #### ####                      OOo
+ oOO             #### ####                       OOo
+  oOO           #### ####                       OOo
+   oOO         #### ####                       OOo
+    oOO       #### ####  _____ _____ ____  _____o
+      oOO    #### ####  |_***_|*****|****\|*****|
+        oO  #### ####     |*| |*( )*|*( )*|*( )*|
+           o### ####      |*| |*****|****/|*****|
+               o###                OOo
+                   ooo OOO OOO ooo
